@@ -1,2 +1,2 @@
 # polystyrenepack
- A Resource Pack for Minecraft
+ A Resource Pack for Minecraft, made by Ewber.
