@@ -1,2 +1,3 @@
-# polystyrenepack
- A Resource Pack for Minecraft, made by Ewber.
+![polypack](https://github.com/Ewber/polystyrenepack/blob/master/header.png)
+
+# Created By Ewber
